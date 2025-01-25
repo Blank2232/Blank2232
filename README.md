@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a first year college student
+- ⚡ Fun fact: I'm a second year college student
 
 <!---
 Blank2232/Blank2232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
