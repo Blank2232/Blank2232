@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blank2232
+- 👋 Hi, I’m @ken jimwill Baltero
 - 👀 I’m interested in web development and software development  
 - 🌱 I’m currently learning web development and basic programmming langauages
 - 💞️ I’m looking to collaborate on ...
